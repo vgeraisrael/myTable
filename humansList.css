@@ -51,6 +51,7 @@ th {
 	background-color: #56585c;
 	outline: 1px outset orange;
 	box-shadow: 0 0 10px lightblue;
+	padding-bottom: 20px;
 }
 
 .wrapDiv:hover {
